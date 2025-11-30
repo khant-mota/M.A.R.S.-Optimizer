@@ -1,8 +1,11 @@
 # M.A.R.S.-Optimizer
 Team : 
 Mota Khant
+
 Anand Sadhika
+
 Ravani Yesha
+
 Sandhu Avneet Kaur
 
 We 4, as a project in the course Computational Methods and Optimization
