@@ -18,3 +18,11 @@ We tested our Optimizer against the 3 other Optimizers on :
 2. Ill Conditioned Quadratic Function
 3. Rosenbrock Function
 
+Run the following commands to get the results as us : 
+1. git clone https://github.com/khant-mota/M.A.R.S.-Optimizer.git
+2. cd M.A.R.S.-Optimizer
+3. pip install jupyter
+4. jupter nbconvert --to python "MARS_vs_Adam_vs_SGD+Mom_vs_RMS_Prop.ipynb"
+5. jupter nbconvert --to python "MARS_train_and_test_on_MNIST_dataset.ipynb"
+6. python MARS_vs_Adam_vs_SGD+Mom_vs_RMS_Prop.py
+7. python MARS_train_and_test_on_MNIST_dataset.py
